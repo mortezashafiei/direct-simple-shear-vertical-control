@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# the simulation writes its chart where it runs
+/vertical_control_sim.svg
+/examples/vertical_control_sim.svg
