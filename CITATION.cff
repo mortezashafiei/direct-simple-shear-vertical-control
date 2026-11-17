@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this guide or code, please cite it as below."
+title: "DSS vertical control: controlling the vertical axis of a direct simple shear device with a microcontroller"
+authors:
+  - family-names: Shafiei
+    given-names: Morteza
+    alias: Mortezashafiei
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/mortezashafiei/direct-simple-shear-vertical-control"
+keywords:
+  - direct simple shear
+  - DSS
+  - constant volume
+  - constant normal stiffness
+  - geotechnical testing
+  - microcontroller
+  - motor control
